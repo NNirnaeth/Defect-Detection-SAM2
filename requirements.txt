@@ -1,0 +1,10 @@
+numpy<2
+pandas
+matplotlib
+opencv-python
+scikit-learn
+torch
+pycocotools
+tqdm
+torchvision
+iopath

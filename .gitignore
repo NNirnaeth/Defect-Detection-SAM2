@@ -1,0 +1,14 @@
+*.pt
+*.torch
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.json
+__pycache__/
+*.log
+datasets/
+models/
+venv/
+.venv/
+.env
